@@ -27,7 +27,7 @@
 	
 }
 .desc{
-	text-align: center;
+	text-align: justify;
 }
 .projects-title{
 	text-align:center;
@@ -43,7 +43,7 @@
 	margin-top:20px !important;
 
 }
-#experience{
+#contact{
 	margin-top:50px !important;
  } /* min-width 641px, medium screens */
 #about{
